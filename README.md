@@ -1,2 +1,2 @@
-# vysk-cookbooks
-Cookbooks for Vysk
+# vc-poc-cookbooks
+Cookbooks for VC proof of concept
